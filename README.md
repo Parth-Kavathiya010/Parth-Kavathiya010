@@ -1,4 +1,4 @@
-x`## Hi there 👋
+## Hi there 👋
 
 - 🚀 About Me
 - 📚 Computer Science Engineer at Gardi Vidyapith
