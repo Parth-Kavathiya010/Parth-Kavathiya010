@@ -1,6 +1,6 @@
-## Hi there 👋
+x`## Hi there 👋
 
-
+- 🚀 About Me
 - 📚 Computer Science Engineer at Gardi Vidyapith
 - 🎓 Diploma in Engineering (Asiatic Engineering College)
 - 💻 Certified Full Stack Developer (Python)
