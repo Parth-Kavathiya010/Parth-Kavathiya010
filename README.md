@@ -1,6 +1,6 @@
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
+# Hi👋, I'm [Parth Kavathiya](https://ranitmanik.github.io/Portfolio-1.0/)
 
 <h3>A Tech Enthusiast from India</h3>
 
