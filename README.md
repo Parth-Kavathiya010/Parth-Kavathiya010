@@ -1,28 +1,38 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
+ <h1 align="center">Hi 👋, I'm Parth Kavathiya</h1>
 
-# Hi👋, I'm [Parth Kavathiya](https://ranitmanik.github.io/Portfolio-1.0/)
+- 🚀 About Me
+- 📚 Computer Science Engineer at Gardi Vidyapith
+- 🎓 Diploma in Engineering (Asiatic Engineering College)
+- 💻 Certified Full Stack Developer (Python)
+- 💼 Skilled in: React.js | Django (Python) | Python Programming
+- 🔍 Passionate about building scalable web applications and exploring new technologies.
+- 🌱 Always learning & expanding my knowledge in modern Full Stack Development.
+- 📫 How to reach me: ".."
+- ⚡ Fun fact: ❤️🎮
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/axiftaj">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/axif_taj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/aaxiftaj">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/axiftaj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<h3>A Engineering Student</h3>
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-- 👨‍💼 I am a Full Stack Developer  
-- 🏫 Pursuing a Bachelor's Degree in Computer Science Engineering at [**Gardi Vidyapith**](https://cemkolaghat.in/).  
-- 📚 Proficient in **Full Stack Development**.  
-- 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
-- 📧 Reach me via [**parthpatel5869@icloud.com**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
-- 📍 Based in **Rajkot, Gujarat, India**.  
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<br>
+⭐️ From [Parth](https://github.com/Parth-Kavathiya010)
