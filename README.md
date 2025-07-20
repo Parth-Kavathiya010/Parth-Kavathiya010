@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Parth-Kavathiya010/Parth-Kavathiya010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 📚 Computer Science Engineer at Gardi Vidyapith
 - 🎓 Diploma in Engineering (Asiatic Engineering College)
 - 💻 Certified Full Stack Developer (Python)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Skilled in: React.js | Django (Python) | Python Programming
+- 🔍 Passionate about building scalable web applications and exploring new technologies.
+- 🌱 Always learning & expanding my knowledge in modern Full Stack Development.
+- 📫 How to reach me: ".."
+- ⚡ Fun fact: ❤️🎮
