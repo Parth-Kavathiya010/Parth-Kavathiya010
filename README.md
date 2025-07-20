@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,git,figma,github,python,django,java,mongodb,mysql,react)](https://skillicons.dev)
 
 <!-- ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Kavathiya010&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Kavathiya010&theme=dark) -->
 
 
 <br>
