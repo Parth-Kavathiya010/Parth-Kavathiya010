@@ -1,11 +1,14 @@
-## Hi there 👋
+<img align="right" width="30%" src="Assets/Programming.gif">
 
-- 🚀 About Me
-- 📚 Computer Science Engineer at Gardi Vidyapith
-- 🎓 Diploma in Engineering (Asiatic Engineering College)
-- 💻 Certified Full Stack Developer (Python)
-- 💼 Skilled in: React.js | Django (Python) | Python Programming
-- 🔍 Passionate about building scalable web applications and exploring new technologies.
-- 🌱 Always learning & expanding my knowledge in modern Full Stack Development.
-- 📫 How to reach me: ".."
-- ⚡ Fun fact: ❤️🎮
+# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
+
+<h3>A Tech Enthusiast from India</h3>
+
+- 👨‍💼 I am a Full Stack Developer  
+- 🏫 Pursuing a Bachelor's Degree in Computer Science Engineering at [**Gardi Vidyapith**](https://cemkolaghat.in/).  
+- 📚 Proficient in **Full Stack Development**.  
+- 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
+- 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
+- 📍 Based in **Mecheda, West Bengal, India**.  
+
+<hr>
